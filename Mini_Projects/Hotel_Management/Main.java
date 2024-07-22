@@ -1,4 +1,4 @@
-package Mini_Projects.HotelManagement;
+package Mini_Projects.Hotel_Management;
 
 import java.io.File;
 import java.io.FileInputStream;
