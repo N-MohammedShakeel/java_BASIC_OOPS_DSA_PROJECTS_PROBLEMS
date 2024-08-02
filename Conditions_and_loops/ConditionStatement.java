@@ -1,4 +1,4 @@
-package Condions_and_loops;
+package Conditions_and_loops;
 
 
 public class ConditionStatement {
