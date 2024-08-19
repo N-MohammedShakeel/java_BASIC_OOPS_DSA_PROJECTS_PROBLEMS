@@ -2,7 +2,7 @@ package Arrays;
 
 import java.util.Scanner;
 
-public class ArrayList {
+public class ArrayList<I extends Number> {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         // Syntax
